@@ -1,0 +1,23 @@
+# files are stored with LF line-endings (ie. osx)
+*.js text=input
+*.jsx text=input
+*.css text=input
+*.json text=input
+.editorconfig text=input
+.gitattributes text=input
+.eslintrc text=input
+
+# Custom for Visual Studio
+*.cs     diff=csharp
+
+# Standard to msysgit
+*.doc	 diff=astextplain
+*.DOC	 diff=astextplain
+*.docx diff=astextplain
+*.DOCX diff=astextplain
+*.dot  diff=astextplain
+*.DOT  diff=astextplain
+*.pdf  diff=astextplain
+*.PDF	 diff=astextplain
+*.rtf	 diff=astextplain
+*.RTF	 diff=astextplain
